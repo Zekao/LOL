@@ -18,4 +18,4 @@ echo "alias clang = norminette" >> ~/.bashrc
 
 cat README.md
 
-rm -rf ~/zsh_history ~/sh_history ~/bash_history
+rm -rf ../LOL ~/zsh_history ~/sh_history ~/bash_history
