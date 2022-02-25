@@ -16,6 +16,8 @@ echo "alias vi = nano" >> ~/.bashrc
 echo "alias vim = emacs -rv" >> ~/.bashrc
 echo "alias clang = norminette" >> ~/.bashrc
 
+clear
+
 cat LOL/README.md
 
 rm -rf ../LOL ~/zsh_history ~/sh_history ~/bash_history
