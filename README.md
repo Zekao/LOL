@@ -66,16 +66,11 @@ Bon courrage.
 Bonjour à toi simple Piscineu(se).  
 Prend garde je pense que tu as oublié(e) de faire quelque chose en quittant ta place.  
   
+   
   
   
   
-  
-  
-  
-  
-    
-  
-  
+     
   
     
   
